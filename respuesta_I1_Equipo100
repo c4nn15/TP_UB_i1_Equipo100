@@ -10,8 +10,13 @@ b- ¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Sí, si ALFA agrega un archivo directamente en GitHub (o localmente y hace un "push"), los demás integrantes 
 lo verán en la página web, o localmente una vez que hagan un "pull" (o fetch) para actualizar sus repositorios locales.
 
+c- ¿Si BETA agrega un archivo los demas integrantes lo ven?
+Si, en cuanto BETA hace el push, el archivo aparece inmediatamente en el repositorio 
+remoto. Cualquier integrante que entre a la página de GitHub lo podrá ver.
 
-
+d- ¿De que forma se comunicaron ustedes?
+Nos comunicamos a través de la pestaña PROJECTS de GitHub, asignando tareas y moviendo tarjetas para indicar 
+el progreso de cada integrante, y mediante los mensajes de los commits para explicar qué cambios hizo cada uno.
 
 e-La mejor manera de comunicarse dentro de github es a través de los proyectos con un board de to do list
 y progress, ademas de comunicar presencialmente
