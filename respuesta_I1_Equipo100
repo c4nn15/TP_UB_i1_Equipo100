@@ -9,3 +9,9 @@ GAMMA hayan realizado el "push" de sus cambios locales al repositorio remoto en 
 b- ¿Si ALFA agrega un archivo los demás integrantes lo ven? 
 Sí, si ALFA agrega un archivo directamente en GitHub (o localmente y hace un "push"), los demás integrantes 
 lo verán en la página web, o localmente una vez que hagan un "pull" (o fetch) para actualizar sus repositorios locales.
+
+
+
+
+e-La mejor manera de comunicarse dentro de github es a través de los proyectos con un board de to do list
+y progress, ademas de comunicar presencialmente
